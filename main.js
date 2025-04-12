@@ -8,26 +8,26 @@ let playlist = [
     {
         title: "Kilimanjaro",
         artistes: "Tiwa Savage ft Young John ft Black Sheriff",
-        image: "/media/kili_thumb.png",
-        source: "/media/tiwa_savage_black_sherif_young_jonn_kilimanjaro_official_lyric_video_mp3_66142.mp3"
+        image: "./media/kili_thumb.png",
+        source: "./media/tiwa_savage_black_sherif_young_jonn_kilimanjaro_official_lyric_video_mp3_66142.mp3"
     },
     {
         title: "Adenuga",
         artistes: "Joeboy ft Qing Madi",
-        image: "/media/thumbnail.png",
-        source: "/media/joeboy_ft._qing_madi_adenuga_official_music_video_mp3_57631.mp3"
+        image: "./media/thumbnail.png",
+        source: "./media/joeboy_ft._qing_madi_adenuga_official_music_video_mp3_57631.mp3"
     },
     {
         title: "Kulosa",
         artistes: "Oxlade",
-        image: "/media/kulosa_thumb.png",
-        source: "/media/oxlade_ku_lo_sa_official_video_mp3_73851.mp3"
+        image: "./media/kulosa_thumb.png",
+        source: "./media/oxlade_ku_lo_sa_official_video_mp3_73851.mp3"
     },
     {
         title: "Holy Ghost",
         artistes: "Omah Lay",
-        image: "/media/hgf_thumb.png",
-        source: "/media/omah_lay_holy_ghost_official_visualizer_mp3_74633.mp3"
+        image: "./media/hgf_thumb.png",
+        source: "./media/omah_lay_holy_ghost_official_visualizer_mp3_74633.mp3"
     }
 ]
 // const playlist1 = ["/media/tiwa_savage_black_sherif_young_jonn_kilimanjaro_official_lyric_video_mp3_66142.mp3", "/media/joeboy_ft._qing_madi_adenuga_official_music_video_mp3_57631.mp3"]
